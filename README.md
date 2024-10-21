@@ -1,5 +1,5 @@
 # Recycle 스크립트 백업
 - 게임 프로젝트 : Recycle의 코드만 백업하는 레포입니다. 
 ### Contributors
-- [YonghwaJeong](https://github.com/YonghwaJeong)
-- [Sandumy](https://github.com/sandumy)
+[![GitHub](https://img.shields.io/badge/GitHub-username1-181717?style=for-the-badge&logo=github)](https://github.com/YonghwaJeong)
+[![GitHub](https://img.shields.io/badge/GitHub-username2-181717?style=for-the-badge&logo=github)](https://github.com/sandumy)
